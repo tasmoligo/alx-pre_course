@@ -1,4 +1,2 @@
 git add up_to_date
-git add .
-git commit -m
-git push origin main
+git pull
